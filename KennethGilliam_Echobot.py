@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Echo Bot")
+st.title("Kenneth Gilliam - Echo Bot")
 
 with st.chat_message("assistant"):
     st.image("PBI Screenshot.png", caption="CIT 144 – Demographics Data Visualization")
